@@ -1,0 +1,14 @@
+C:\Users\Katerina\source\repos\kr_1\kr_1\bin\Debug\net8.0\kr_1.exe
+C:\Users\Katerina\source\repos\kr_1\kr_1\bin\Debug\net8.0\kr_1.deps.json
+C:\Users\Katerina\source\repos\kr_1\kr_1\bin\Debug\net8.0\kr_1.runtimeconfig.json
+C:\Users\Katerina\source\repos\kr_1\kr_1\bin\Debug\net8.0\kr_1.dll
+C:\Users\Katerina\source\repos\kr_1\kr_1\bin\Debug\net8.0\kr_1.pdb
+C:\Users\Katerina\source\repos\kr_1\kr_1\obj\Debug\net8.0\kr_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katerina\source\repos\kr_1\kr_1\obj\Debug\net8.0\kr_1.AssemblyInfoInputs.cache
+C:\Users\Katerina\source\repos\kr_1\kr_1\obj\Debug\net8.0\kr_1.AssemblyInfo.cs
+C:\Users\Katerina\source\repos\kr_1\kr_1\obj\Debug\net8.0\kr_1.csproj.CoreCompileInputs.cache
+C:\Users\Katerina\source\repos\kr_1\kr_1\obj\Debug\net8.0\kr_1.dll
+C:\Users\Katerina\source\repos\kr_1\kr_1\obj\Debug\net8.0\refint\kr_1.dll
+C:\Users\Katerina\source\repos\kr_1\kr_1\obj\Debug\net8.0\kr_1.pdb
+C:\Users\Katerina\source\repos\kr_1\kr_1\obj\Debug\net8.0\kr_1.genruntimeconfig.cache
+C:\Users\Katerina\source\repos\kr_1\kr_1\obj\Debug\net8.0\ref\kr_1.dll
