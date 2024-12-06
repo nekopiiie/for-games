@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Katerina\\Documents\\GitHub\\for-games\\all_homework\\dop_task_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FE828C-0CF5-4736-B856-ED69DB1799C8}|dop_task_3\\dop_task_3.csproj|c:\\users\\katerina\\documents\\github\\for-games\\all_homework\\dop_task_3\\dop_task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FE828C-0CF5-4736-B856-ED69DB1799C8}|dop_task_3\\dop_task_3.csproj|solutionrelative:dop_task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FE828C-0CF5-4736-B856-ED69DB1799C8}|dop_task_3\\dop_task_3.csproj|c:\\users\\katerina\\documents\\github\\for-games\\all_homework\\dop_task_3\\dop_task_3\\gamefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FE828C-0CF5-4736-B856-ED69DB1799C8}|dop_task_3\\dop_task_3.csproj|solutionrelative:dop_task_3\\gamefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FE828C-0CF5-4736-B856-ED69DB1799C8}|dop_task_3\\dop_task_3.csproj|c:\\users\\katerina\\documents\\github\\for-games\\all_homework\\dop_task_3\\dop_task_3\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FE828C-0CF5-4736-B856-ED69DB1799C8}|dop_task_3\\dop_task_3.csproj|solutionrelative:dop_task_3\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FE828C-0CF5-4736-B856-ED69DB1799C8}|dop_task_3\\dop_task_3.csproj|c:\\users\\katerina\\documents\\github\\for-games\\all_homework\\dop_task_3\\dop_task_3\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FE828C-0CF5-4736-B856-ED69DB1799C8}|dop_task_3\\dop_task_3.csproj|solutionrelative:dop_task_3\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Katerina\\Documents\\GitHub\\for-games\\all_homework\\dop_task_3\\dop_task_3\\Game.cs",
+              "RelativeDocumentMoniker": "dop_task_3\\Game.cs",
+              "ToolTip": "C:\\Users\\Katerina\\Documents\\GitHub\\for-games\\all_homework\\dop_task_3\\dop_task_3\\Game.cs",
+              "RelativeToolTip": "dop_task_3\\Game.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwCMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:59:48.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Katerina\\Documents\\GitHub\\for-games\\all_homework\\dop_task_3\\dop_task_3\\Player.cs",
+              "RelativeDocumentMoniker": "dop_task_3\\Player.cs",
+              "ToolTip": "C:\\Users\\Katerina\\Documents\\GitHub\\for-games\\all_homework\\dop_task_3\\dop_task_3\\Player.cs*",
+              "RelativeToolTip": "dop_task_3\\Player.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:59:36.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameField.cs",
+              "DocumentMoniker": "C:\\Users\\Katerina\\Documents\\GitHub\\for-games\\all_homework\\dop_task_3\\dop_task_3\\GameField.cs",
+              "RelativeDocumentMoniker": "dop_task_3\\GameField.cs",
+              "ToolTip": "C:\\Users\\Katerina\\Documents\\GitHub\\for-games\\all_homework\\dop_task_3\\dop_task_3\\GameField.cs*",
+              "RelativeToolTip": "dop_task_3\\GameField.cs*",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAwIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:59:25.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Katerina\\Documents\\GitHub\\for-games\\all_homework\\dop_task_3\\dop_task_3\\Program.cs",
+              "RelativeDocumentMoniker": "dop_task_3\\Program.cs",
+              "ToolTip": "C:\\Users\\Katerina\\Documents\\GitHub\\for-games\\all_homework\\dop_task_3\\dop_task_3\\Program.cs*",
+              "RelativeToolTip": "dop_task_3\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:58:49.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

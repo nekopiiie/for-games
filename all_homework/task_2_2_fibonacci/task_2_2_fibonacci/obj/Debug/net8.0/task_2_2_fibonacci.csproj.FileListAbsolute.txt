@@ -1,0 +1,15 @@
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_fibonacci\task_2_2_fibonacci\bin\Debug\net8.0\task_2_2_fibonacci.exe
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_fibonacci\task_2_2_fibonacci\bin\Debug\net8.0\task_2_2_fibonacci.deps.json
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_fibonacci\task_2_2_fibonacci\bin\Debug\net8.0\task_2_2_fibonacci.runtimeconfig.json
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_fibonacci\task_2_2_fibonacci\bin\Debug\net8.0\task_2_2_fibonacci.dll
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_fibonacci\task_2_2_fibonacci\bin\Debug\net8.0\task_2_2_fibonacci.pdb
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_fibonacci\task_2_2_fibonacci\obj\Debug\net8.0\task_2_2_fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_fibonacci\task_2_2_fibonacci\obj\Debug\net8.0\task_2_2_fibonacci.AssemblyInfoInputs.cache
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_fibonacci\task_2_2_fibonacci\obj\Debug\net8.0\task_2_2_fibonacci.AssemblyInfo.cs
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_fibonacci\task_2_2_fibonacci\obj\Debug\net8.0\task_2_2_fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_fibonacci\task_2_2_fibonacci\obj\Debug\net8.0\task_2_2_fibonacci.sourcelink.json
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_fibonacci\task_2_2_fibonacci\obj\Debug\net8.0\task_2_2_fibonacci.dll
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_fibonacci\task_2_2_fibonacci\obj\Debug\net8.0\refint\task_2_2_fibonacci.dll
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_fibonacci\task_2_2_fibonacci\obj\Debug\net8.0\task_2_2_fibonacci.pdb
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_fibonacci\task_2_2_fibonacci\obj\Debug\net8.0\task_2_2_fibonacci.genruntimeconfig.cache
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_fibonacci\task_2_2_fibonacci\obj\Debug\net8.0\ref\task_2_2_fibonacci.dll

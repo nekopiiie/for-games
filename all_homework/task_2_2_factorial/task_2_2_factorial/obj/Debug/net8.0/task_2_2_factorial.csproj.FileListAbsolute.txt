@@ -1,0 +1,15 @@
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_factorial\task_2_2_factorial\bin\Debug\net8.0\task_2_2_factorial.exe
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_factorial\task_2_2_factorial\bin\Debug\net8.0\task_2_2_factorial.deps.json
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_factorial\task_2_2_factorial\bin\Debug\net8.0\task_2_2_factorial.runtimeconfig.json
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_factorial\task_2_2_factorial\bin\Debug\net8.0\task_2_2_factorial.dll
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_factorial\task_2_2_factorial\bin\Debug\net8.0\task_2_2_factorial.pdb
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_factorial\task_2_2_factorial\obj\Debug\net8.0\task_2_2_factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_factorial\task_2_2_factorial\obj\Debug\net8.0\task_2_2_factorial.AssemblyInfoInputs.cache
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_factorial\task_2_2_factorial\obj\Debug\net8.0\task_2_2_factorial.AssemblyInfo.cs
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_factorial\task_2_2_factorial\obj\Debug\net8.0\task_2_2_factorial.csproj.CoreCompileInputs.cache
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_factorial\task_2_2_factorial\obj\Debug\net8.0\task_2_2_factorial.sourcelink.json
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_factorial\task_2_2_factorial\obj\Debug\net8.0\task_2_2_factorial.dll
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_factorial\task_2_2_factorial\obj\Debug\net8.0\refint\task_2_2_factorial.dll
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_factorial\task_2_2_factorial\obj\Debug\net8.0\task_2_2_factorial.pdb
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_factorial\task_2_2_factorial\obj\Debug\net8.0\task_2_2_factorial.genruntimeconfig.cache
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_2_2_factorial\task_2_2_factorial\obj\Debug\net8.0\ref\task_2_2_factorial.dll

@@ -1,0 +1,15 @@
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\dop_task_3\dop_task_3\obj\Debug\net8.0\dop_task_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\dop_task_3\dop_task_3\obj\Debug\net8.0\dop_task_3.AssemblyInfoInputs.cache
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\dop_task_3\dop_task_3\obj\Debug\net8.0\dop_task_3.AssemblyInfo.cs
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\dop_task_3\dop_task_3\obj\Debug\net8.0\dop_task_3.csproj.CoreCompileInputs.cache
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\dop_task_3\dop_task_3\obj\Debug\net8.0\dop_task_3.sourcelink.json
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\dop_task_3\dop_task_3\bin\Debug\net8.0\dop_task_3.exe
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\dop_task_3\dop_task_3\bin\Debug\net8.0\dop_task_3.deps.json
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\dop_task_3\dop_task_3\bin\Debug\net8.0\dop_task_3.runtimeconfig.json
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\dop_task_3\dop_task_3\bin\Debug\net8.0\dop_task_3.dll
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\dop_task_3\dop_task_3\bin\Debug\net8.0\dop_task_3.pdb
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\dop_task_3\dop_task_3\obj\Debug\net8.0\dop_task_3.dll
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\dop_task_3\dop_task_3\obj\Debug\net8.0\refint\dop_task_3.dll
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\dop_task_3\dop_task_3\obj\Debug\net8.0\dop_task_3.pdb
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\dop_task_3\dop_task_3\obj\Debug\net8.0\dop_task_3.genruntimeconfig.cache
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\dop_task_3\dop_task_3\obj\Debug\net8.0\ref\dop_task_3.dll
