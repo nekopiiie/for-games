@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dop_task_3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c8403dd49fd7c656827b46a2585d9bd24d62684")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a9b6eb61a3460481f63a66ffc4d2d2aa86af4fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("dop_task_3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dop_task_3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

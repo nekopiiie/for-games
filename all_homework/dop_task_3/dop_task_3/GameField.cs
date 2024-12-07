@@ -28,7 +28,7 @@ public class GameField
             { '#', 'A', '#', '#', '#', '#', '#', 'R', '#', '#' },
             { '#', '#', '#', '#', '#', '#', '#', '#', '#', '#' }
         };
-        field[player.PositionX, player.PositionY] = 'C'; // Установка персонажа
+        field[player.PositionX, player.PositionY] = 'C'; 
     }
 
     public void Display()
@@ -77,37 +77,37 @@ public class GameField
         if (IsInBounds(newX, newY))
         {
             char target = field[newX, newY];
-            if (target == '#' || target == 'O') // Можно двигаться по траве и плитам
+            if (target == '#' || target == 'O') 
             {
-                UpdateField(player.PositionX, player.PositionY); // Убираем персонажа с текущей позиции
+                UpdateField(player.PositionX, player.PositionY); 
                 player.PositionX = newX;
                 player.PositionY = newY;
-                field[player.PositionX, player.PositionY] = 'C'; // Устанавливаем персонажа на новую позицию
+                field[player.PositionX, player.PositionY] = 'C'; 
                 return true;
             }
-            else if (target == 'R') // Если находимся рядом с камнем
+            else if (target == 'R') 
             {
                 int nextX = newX + deltaX;
                 int nextY = newY + deltaY;
 
-                if (IsInBounds(nextX, nextY) && (field[nextX, nextY] == 'O' || field[nextX, nextY] == '#')) // Проверяем, можно ли двигать камень
+                if (IsInBounds(nextX, nextY) && (field[nextX, nextY] == 'O' || field[nextX, nextY] == '#'))  
                 {
-                    field[newX, newY] = 'O'; // Убираем камень с текущей позиции
-                    field[nextX, nextY] = 'R'; // Двигаем камень
-                    UpdateField(player.PositionX, player.PositionY); // Убираем персонажа с текущей позиции
+                    field[newX, newY] = 'O'; 
+                    field[nextX, nextY] = 'R'; 
+                    UpdateField(player.PositionX, player.PositionY); 
                     player.PositionX = newX;
                     player.PositionY = newY;
-                    field[player.PositionX, player.PositionY] = 'C'; // Устанавливаем персонажа на новую позицию
+                    field[player.PositionX, player.PositionY] = 'C'; 
                     return true;
                 }
             }
         }
-        return false; // Движение невозможно
+        return false; 
     }
 
     private void UpdateField(int x, int y)
     {
-        field[x, y] = 'O'; // Плита остается неактивированной
+        field[x, y] = 'O'; 
     }
 
     private bool IsInBounds(int x, int y)
@@ -119,9 +119,9 @@ public class GameField
     {
         foreach (char tile in field)
         {
-            if (tile == 'O') return false; // Если есть неактивированные плиты, возвращаем false
+            if (tile == 'O') return false; 
         }
-        return true; // Все плиты активированы
+        return true; 
     }
 
     public void ActivateTile()
@@ -129,9 +129,9 @@ public class GameField
         int x = player.PositionX;
         int y = player.PositionY;
 
-        if (field[x, y] == 'O') // Если игрок стоит на неактивированной плите
+        if (field[x, y] == 'O') 
         {
-            field[x, y] = 'A'; // Активируем плиту
+            field[x, y] = 'A'; 
         }
     }
 

@@ -7,7 +7,7 @@ public class Game
 
     public Game()
     {
-        player = new Player(0, 0); // Начальная позиция игрока
+        player = new Player(0, 0); 
         gameField = new GameField(player);
     }
 
@@ -21,26 +21,26 @@ public class Game
             switch (keyInfo.Key)
             {
                 case ConsoleKey.W:
-                    gameField.MovePlayer(-1, 0); // Вверх
+                    gameField.MovePlayer(-1, 0); 
                     break;
                 case ConsoleKey.A:
-                    gameField.MovePlayer(0, -1); // Влево
+                    gameField.MovePlayer(0, -1); 
                     break;
                 case ConsoleKey.S:
-                    gameField.MovePlayer(1, 0); // Вниз
+                    gameField.MovePlayer(1, 0); 
                     break;
                 case ConsoleKey.D:
-                    gameField.MovePlayer(0, 1); // Вправо
+                    gameField.MovePlayer(0, 1); 
                     break;
                 case ConsoleKey.Spacebar:
-                    gameField.ActivateTile(); // Активируем плиту
+                    gameField.ActivateTile(); 
                     break;
             }
 
             if (gameField.CheckWin())
             {
                 Console.WriteLine("Вы выиграли!");
-                break; // Выход из игрового цикла
+                break; 
             }
         }
     }
