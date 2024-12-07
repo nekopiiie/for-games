@@ -1,0 +1,15 @@
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_11_1\task_11_1\bin\Debug\net8.0\task_11_1.exe
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_11_1\task_11_1\bin\Debug\net8.0\task_11_1.deps.json
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_11_1\task_11_1\bin\Debug\net8.0\task_11_1.runtimeconfig.json
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_11_1\task_11_1\bin\Debug\net8.0\task_11_1.dll
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_11_1\task_11_1\bin\Debug\net8.0\task_11_1.pdb
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_11_1\task_11_1\obj\Debug\net8.0\task_11_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_11_1\task_11_1\obj\Debug\net8.0\task_11_1.AssemblyInfoInputs.cache
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_11_1\task_11_1\obj\Debug\net8.0\task_11_1.AssemblyInfo.cs
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_11_1\task_11_1\obj\Debug\net8.0\task_11_1.csproj.CoreCompileInputs.cache
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_11_1\task_11_1\obj\Debug\net8.0\task_11_1.sourcelink.json
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_11_1\task_11_1\obj\Debug\net8.0\task_11_1.dll
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_11_1\task_11_1\obj\Debug\net8.0\refint\task_11_1.dll
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_11_1\task_11_1\obj\Debug\net8.0\task_11_1.pdb
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_11_1\task_11_1\obj\Debug\net8.0\task_11_1.genruntimeconfig.cache
+C:\Users\Katerina\Documents\GitHub\for-games\all_homework\task_11_1\task_11_1\obj\Debug\net8.0\ref\task_11_1.dll
