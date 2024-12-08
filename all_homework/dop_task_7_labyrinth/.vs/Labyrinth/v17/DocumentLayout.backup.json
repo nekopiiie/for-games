@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Katerina\\Documents\\GitHub\\for-games\\all_homework\\dop_task_7_labyrinth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{439A8243-7AB9-4448-B996-26809B76DF22}|Labyrinth\\Labyrinth.csproj|c:\\users\\katerina\\documents\\github\\for-games\\all_homework\\dop_task_7_labyrinth\\labyrinth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439A8243-7AB9-4448-B996-26809B76DF22}|Labyrinth\\Labyrinth.csproj|solutionrelative:labyrinth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439A8243-7AB9-4448-B996-26809B76DF22}|Labyrinth\\Labyrinth.csproj|c:\\users\\katerina\\documents\\github\\for-games\\all_homework\\dop_task_7_labyrinth\\labyrinth\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439A8243-7AB9-4448-B996-26809B76DF22}|Labyrinth\\Labyrinth.csproj|solutionrelative:labyrinth\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Katerina\\Documents\\GitHub\\for-games\\all_homework\\dop_task_7_labyrinth\\Labyrinth\\Player.cs",
+              "RelativeDocumentMoniker": "Labyrinth\\Player.cs",
+              "ToolTip": "C:\\Users\\Katerina\\Documents\\GitHub\\for-games\\all_homework\\dop_task_7_labyrinth\\Labyrinth\\Player.cs",
+              "RelativeToolTip": "Labyrinth\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:22:43.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Katerina\\Documents\\GitHub\\for-games\\all_homework\\dop_task_7_labyrinth\\Labyrinth\\Program.cs",
+              "RelativeDocumentMoniker": "Labyrinth\\Program.cs",
+              "ToolTip": "C:\\Users\\Katerina\\Documents\\GitHub\\for-games\\all_homework\\dop_task_7_labyrinth\\Labyrinth\\Program.cs",
+              "RelativeToolTip": "Labyrinth\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:56:17.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
